@@ -10,9 +10,9 @@
 
 ### Links and Resources
 
-- [ci/cd](http://xyz.com) (GitHub Actions)
-- [prod deployment](http://xyz.com) (when applicable)
-- [dev deployment](http://xyz.com) (when applicable)
+- [CI/CD](https://github.com/dustinapodaca/server-deployment-practice/actions) (GitHub Actions)
+- [Prod Deployment](https://server-deployment-practice-prod.onrender.com)
+- [Dev Deployment](https://server-deployment-practice-dev-08kn.onrender.com)
 
 ### Setup
 
